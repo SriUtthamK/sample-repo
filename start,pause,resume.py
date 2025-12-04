@@ -3,7 +3,7 @@ from datetime import datetime
 
 counter = 0
 running = False
-
+//added a comment here.
 def counter_label(label):
     def count():
         global counter
